@@ -1,5 +1,4 @@
 # 🎮 Lucky Guy
-Lucky Guy is a short story. It created for gamejam.
 
 Короткая история, созданная в рамках геймджема.
 
