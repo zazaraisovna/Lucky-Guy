@@ -22,10 +22,8 @@ A short story created during a game jam.
 
 ## 👩‍💻 Developer
 
-Azaliya ([@zazaraisovna](https://github.com/zazaraisovna))
-
-Indie game developer. I love 2D, narrative design, and a touch of magic ✨
-
+Azaliya ([@zazaraisovna](https://github.com/zazaraisovna))  
+Indie game developer. I love 2D, narrative design, and a touch of magic ✨  
 More projects on my [GitHub page](https://github.com/zazaraisovna)
 
 🎮 Unity • 💬 Dialogues • 🧪 Game jams
