@@ -1,27 +1,31 @@
+[🇷🇺 Русский](README.ru.md)
+
 # 🎮 Lucky Guy
 
-Короткая история, созданная в рамках геймджема.
+A short story created during a game jam.
 
-### 🔗 [Ссылка на билд / Itch.io / WebGL](https://zaza.itch.io/lucky-guy)
+### 🔗 [Play the build / Itch.io / WebGL](https://zaza.itch.io/lucky-guy)
 
-## 📸 Скриншоты 
+## 📸 Screenshots  
 
-| Взаимодействие с объектами | Интерактив | Сюжет |
+| Object Interaction | Interactivity  | Story |
 |------|-----------------|---------|
 | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b98ce61-d1a0-4592-97bd-566362f3ba9d" /> | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4fb99d3-d1d1-4ea5-9701-2161b6936aab" /> | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21d689b3-b723-46f2-997f-3971f38b57e5" /> |
 
-## 🎯 Особенности
+## 🎯 Features
 
-✅ Интерактивная история/комикс
+✅ Interactive story/comic  
 
-✅ Линейный сюжет
+✅ Linear narrative  
 
-✅ Проект создан в рамках геймджема
+✅ Created during a game jam 
 
-## 👩‍💻 Разработчица
+## 👩‍💻 Developer
 
-Азалия ([@zazaraisovna](https://github.com/zazaraisovna))  
-Инди-разработчица игр. Люблю 2D, нарратив и немного магии ✨  
-Больше проектов — на [моей странице](https://github.com/zazaraisovna)
+Azaliya ([@zazaraisovna](https://github.com/zazaraisovna))
 
-🎮 Unity • 💬 Диалоги • 🧪 Геймджемы
+Indie game developer. I love 2D, narrative design, and a touch of magic ✨
+
+More projects on my [GitHub page](https://github.com/zazaraisovna)
+
+🎮 Unity • 💬 Dialogues • 🧪 Game jams
